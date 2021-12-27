@@ -1,0 +1,20 @@
+{
+  "name": "blonder-theme",
+  "version": "1.0.0",
+  "description": "Vscode extension theme",
+  "main": "server.js",
+  "scripts": {
+    "start": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acquahsamuel/blonder-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acquahsamuel/blonder-theme/issues"
+  },
+  "homepage": "https://github.com/acquahsamuel/blonder-theme#readme"
+}
