@@ -1,4 +1,7 @@
 ## blonder-theme vscode theme
 Vscode extension theme
 
-<img src="img/vscode-ui.png" width="600px" height="600px">
+<a href="https://github.com/acquahsamuel/-theme">
+  <img src="img/vscode-ui.png" alt="Logo" width="100px" height="100px">
+  
+</a>

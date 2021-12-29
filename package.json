@@ -10,7 +10,14 @@
         "type": "git",
         "url": "git+https://github.com/acquahsamuel/blonder-theme.git"
     },
-    "keywords": [],
+    "keywords": [
+        "vscode theme",
+        "theme",
+        "blonder",
+        "dark theme",
+        "beautiful theme",
+        "colorful theme"
+    ],
     "author": {
         "name": "Acquah Samuel",
         "email": "iamsamuelacquah@gmail.com"
