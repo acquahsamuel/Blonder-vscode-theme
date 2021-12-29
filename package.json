@@ -1,0 +1,44 @@
+{
+    "name": "blonder",
+    "displayName": "blonder",
+    "description": "blonder theme!",
+    "version": "0.0.1",
+    "main": "server.js",
+    "scripts": {
+        "start": "npm run start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/acquahsamuel/blonder-theme.git"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Acquah Samuel",
+        "email": "iamsamuelacquah@gmail.com"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/acquahsamuel/blonder-theme/issues"
+    },
+    "homepage": "https://github.com/acquahsamuel/blonder-theme#readme",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "blonder",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blonder-color-theme.json"
+            }
+        ]
+    },
+    "activationEvents": [
+        "onLanguage:json",
+        "onLanguage:markdown",
+        "onLanguage:typescript"
+    ]
+}
