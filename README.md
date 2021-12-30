@@ -1,26 +1,20 @@
-<p align="center">
-<a href="https://github.com/acquahsamuel/blonder-theme">
-  <img src="img/blonder-logo.png" alt="Logo" width="100px" height=100px>
-   <br/>
-   <h2 align="center"> 
-       Blonder 
-       A minimal,dark blue theme for VS Code
-  </h2>
-
   <p align="center">
+  <a href="https://github.com/acquahsamuel/blonder-theme">
+    <img src="img/blonder-logo.png" alt="Logo" width="100px" height=100px>
+  </a>
+  </p>
+  <h2 align="center"> Blonder Theme for VS Code </h2>
+ 
+ <div style="text-align:center"><span style="font-family:sans-serif;">
 
   ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/acquahsamuel.blonder)
   ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/acquahsamuel.blonder)
   ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/acquahsamuel.blonder)
   ![GitHub](https://img.shields.io/github/license/acquahsamuel/blonder)
   
-  </p>
-</a>
+ </span></div>
 
-</p>
-  <a href="">
-   <img src="img/vscode-ui.png" alt="blonder-screenshoot"></p>
-  </a>   
+<a href=""> <img src="img/vscode-ui.png" alt="blonder-screenshoot"></p></a>   
 
 ## Installation via VS Code 
 

@@ -2,12 +2,16 @@
     "name": "blonder",
     "displayName": "Blonder",
     "description": "Professional dark theme for VS Code based on the Enhanced Material theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "acquahsamuel",
     "icon": "img/blonder-logo.png",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/acquahsamuel/blonder-theme.git"
+    },
+    "galleryBanner": {
+        "color": "#00003f",
+        "theme" :"dark"
     },
     "keywords": [
         "vscode theme",
@@ -40,10 +44,5 @@
                 "path": "./themes/blonder-color-theme.json"
             }
         ]
-    },
-    "activationEvents": [
-        "onLanguage:json",
-        "onLanguage:markdown",
-        "onLanguage:typescript"
-    ]
+    }
 }
