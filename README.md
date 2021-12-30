@@ -25,15 +25,13 @@
 5. Code > Preferences > Color Theme > Blonder
 
 ### Manual installation
-
-Read the ![VSC Extension Quickstart Guide](https://github.com/acquahsamuel/blonder-theme/blob/master/vsc-extension-quickstart.md)
+Read the [VSC Extension Quickstart Guide](https://github.com/acquahsamuel/blonder-theme/blob/master/vsc-extension-quickstart.md)
 
 
 ### Theming Reference
-
-![VS Code Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
-![VS Code Theme Documentation](https://code.visualstudio.com/api/extension-capabilities/theming)
-![VS Code Theme Publishing Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
-![VS Code Theme UI](https://themes.vscode.one/)
+[VS Code Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
+[VS Code Theme Documentation](https://code.visualstudio.com/api/extension-capabilities/theming)
+[VS Code Theme Publishing Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+[VS Code Theme UI](https://themes.vscode.one/)
 
 
