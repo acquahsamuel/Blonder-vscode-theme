@@ -1,23 +1,34 @@
-
-
 <p align="center">
 <a href="https://github.com/acquahsamuel/blonder-theme/tree/master">
-  <img src="img/blonder-logo.png" alt="Logo" width="200px" height=200px>
+  <img src="img/blonder-logo.png" alt="Logo" width="100px" height=100px>
    <br/>
-   <h2> Blonder </h2>
+   <h2 align="center"> 
+       Blonder 
+       A minimal,dark blue theme for VS Code
+   </h2>
+
+
+   ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/acquahsamuel.blonder)
+   ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/acquahsamuel.blonder)
+   ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/acquahsamuel.blonder)
+   ![GitHub](https://img.shields.io/github/license/acquahsamuel/blonder)
+
 </a>
-
-
-A minimal,dark blue theme for VS Code
-
-
-
 </p>
 
+## Installation via VS Code 
+
+1. Open Extensions sidebar panel in VS Code. View → Extensions
+2. Search for Blonder
+3. Click Install to install it
+4. Click Reload to reload the editor
+5. Code > Preferences > Color Theme > Blonder
+
+### Manual installation
+
+Read the 
 
 
 
-
-
-
+Theming Reference
 
