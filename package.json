@@ -1,9 +1,8 @@
 {
     "name": "blonder",
-    "displayName": "blonder-theme",
-    "description": "blonder theme!",
+    "displayName": "Blonder",
+    "description": "Professional dark theme for VS Code based on the Enhanced Material theme",
     "version": "0.0.2",
-    "main": "server.js",
     "publisher": "acquahsamuel",
     "icon": "img/blonder-logo.png",
     "repository": {
