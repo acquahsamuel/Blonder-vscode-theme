@@ -1,6 +1,6 @@
   <p align="center">
   <a href="https://github.com/acquahsamuel/blonder-theme">
-    <img src="img/blonder-logo.png" alt="Logo" width="100px" height=100px>
+    <img src="img/blonder-logo.png" alt="Logo" width="250px" height=250px>
   </a>
   </p>
   <h2 align="center"> Blonder Theme for VS Code </h2>
@@ -14,7 +14,7 @@
   
  </span></div>
 
-<a href=""> <img src="img/vscode-ui.png" alt="blonder-screenshoot"></p></a>   
+<a href=""> <img src="img/code-snapshot.png" alt="blonder-screenshoot"></p></a>   
 
 ## Installation via VS Code 
 
