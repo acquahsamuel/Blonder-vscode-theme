@@ -14,7 +14,8 @@
   
  </span></div>
 
-<a href=""> <img src="img/code-snapshot.png" alt="blonder-screenshoot"></p></a>   
+<img src="img/code-snapshot-js.png" alt="blonder-screenshoot">
+
 
 ## Installation via VS Code 
 
