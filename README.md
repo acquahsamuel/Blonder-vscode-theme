@@ -14,7 +14,7 @@
   
  </span></div>
 
-<img src="img/code-snapshot-js.png" alt="blonder-screenshoot">
+<img src="img/vscode-ui.png" alt="blonder-screenshoot">
 
 
 ## Installation via VS Code 
