@@ -3,8 +3,7 @@
     <img src="img/blonder-logo.png" alt="Logo" width="250px" height=250px>
   </a>
   </p>
-  <h2 align="center"> Blonder Theme for VS Code </h2>
- 
+  <!-- <h2 align="center"> Blonder Theme for VS Code </h2> -->
  <div style="text-align:center"><span style="font-family:sans-serif;">
 
   ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/acquahsamuel.blonder)
