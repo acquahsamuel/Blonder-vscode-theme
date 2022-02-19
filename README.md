@@ -37,3 +37,4 @@ Read the [VSC Extension Quickstart Guide](https://github.com/acquahsamuel/blonde
 [VS Code Theme Publishing Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 
 [VS Code Theme UI](https://themes.vscode.one/)
+
