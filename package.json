@@ -1,10 +1,10 @@
 {
-    "name": "Blonder",
+    "name": "blonder",
     "displayName": "Blonder",
     "description": "Professional dark theme for VS Code",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "acquahsamuel",
-    "icon": "img/blonder-logo.png",
+    "icon": "img/blonder-logo.jpeg",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/acquahsamuel/blonder-theme.git"
