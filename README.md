@@ -1,33 +1,19 @@
   <p align="center">
   <a href="https://github.com/acquahsamuel/blonder-theme">
-
     <img src="img/blonder-logo.jpeg" alt="Logo" width="250px" height=250px>
-
   </a>
   </p>
-  <!-- <h2 align="center"> Blonder Theme for VS Code </h2> -->
- <div style="text-align:center"><span style="font-family:sans-serif; ">
+ <div style="text-align:center"><span style="font-family:sans-serif;">
 
-  
-
-![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/acquahsamuel.blonder)
-
-  
-
-![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/acquahsamuel.blonder)
-
-  
-
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/acquahsamuel.blonder)
-
-  
-
-![GitHub](https://img.shields.io/github/license/acquahsamuel/blonder)
-
+  ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/acquahsamuel.blonder)
+  ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/acquahsamuel.blonder)
+  ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/acquahsamuel.blonder)
+  ![GitHub](https://img.shields.io/github/license/acquahsamuel/blonder)
   
  </span></div>
 
 <img src="img/vscode-ui.png" alt="blonder-screenshoot">
+
 
 ## Installation via VS Code 
 
@@ -50,3 +36,4 @@ Read the [VSC Extension Quickstart Guide](https://github.com/acquahsamuel/blonde
 [VS Code Theme Publishing Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 
 [VS Code Theme UI](https://themes.vscode.one/)
+
