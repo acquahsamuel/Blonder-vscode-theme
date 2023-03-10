@@ -1,9 +1,4 @@
-  <p>
-  <a href="https://github.com/acquahsamuel/blonder-theme">
-    <img src="img/blonder-theme.png" alt="Logo" width="250px" height=250px>
-  </a>
-  </p>
-
+ <img src="img/blonder.svg" width="250px" height="250px">
 
  <div style="text-align:center"><span style="font-family:sans-serif;">
 
@@ -11,16 +6,11 @@
   ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/acquahsamuel.blonder)
   ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/acquahsamuel.blonder)
   ![GitHub](https://img.shields.io/github/license/acquahsamuel/blonder)
-  
+
  </span></div>
 
 <img src="img/vscode-ui.png" alt="blonder-screenshoot">
 
-<embed src="img/blonder.svg" />
-
-
-![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
-<img src="img/blonder.svg">
 
 
 
