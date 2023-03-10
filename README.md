@@ -1,11 +1,10 @@
-  <p align="center">
+  <p>
   <a href="https://github.com/acquahsamuel/blonder-theme">
     <img src="img/blonder-theme.png" alt="Logo" width="250px" height=250px>
-    
   </a>
-
-   <object data="img/blonder.svg" width="250px" height=250px> </object>
   </p>
+
+
  <div style="text-align:center"><span style="font-family:sans-serif;">
 
   ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/acquahsamuel.blonder)
@@ -17,7 +16,7 @@
 
 <img src="img/vscode-ui.png" alt="blonder-screenshoot">
 
-
+<embed src="img/blonder.svg" />
 
 
 ## Installation via VS Code 
