@@ -1,8 +1,10 @@
   <p align="center">
   <a href="https://github.com/acquahsamuel/blonder-theme">
-    <!-- <img src="img/blonder-theme.png" alt="Logo" width="250px" height=250px> -->
-     <object data="blonder.svg" width="250px" height=250px> </object>
+    <img src="img/blonder-theme.png" alt="Logo" width="250px" height=250px>
+    
   </a>
+
+   <object data="blonder.svg" width="250px" height=250px> </object>
   </p>
  <div style="text-align:center"><span style="font-family:sans-serif;">
 
