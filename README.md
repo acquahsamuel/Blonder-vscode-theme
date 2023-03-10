@@ -1,5 +1,5 @@
- <!-- <img src="img/blonder.svg" width="250px" height="250px"> -->
-  <img src="img/blonder-theme.png" width="auto" height="250px">
+ <img src="img/blonder.svg" width="250px" height="250px">
+<!-- <img src="img/blonder-theme.png" width="auto" height="250px"> -->
 
  <div style="text-align:center"><span style="font-family:sans-serif;">
 
