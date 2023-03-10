@@ -4,7 +4,7 @@
     
   </a>
 
-   <object data="blonder.svg" width="250px" height=250px> </object>
+   <object data="img/blonder.svg" width="250px" height=250px> </object>
   </p>
  <div style="text-align:center"><span style="font-family:sans-serif;">
 
