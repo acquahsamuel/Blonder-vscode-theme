@@ -1,6 +1,7 @@
   <p align="center">
   <a href="https://github.com/acquahsamuel/blonder-theme">
-    <img src="img/blonder-theme.png" alt="Logo" width="250px" height=250px>
+    <!-- <img src="img/blonder-theme.png" alt="Logo" width="250px" height=250px> -->
+     <object data="blonder.svg" width="250px" height=250px> </object>
   </a>
   </p>
  <div style="text-align:center"><span style="font-family:sans-serif;">
@@ -13,6 +14,8 @@
  </span></div>
 
 <img src="img/vscode-ui.png" alt="blonder-screenshoot">
+
+
 
 
 ## Installation via VS Code 
