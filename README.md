@@ -1,7 +1,7 @@
 ## Blonder Theme for VS Code
 
- <img src="img/blonder.svg" width="150px" height="150px">
- 
+ <img src="img/blonder.svg" width="250px" height="250px">
+
  <div style="">
  <span style="font-family:sans-serif;">
 
@@ -14,7 +14,6 @@
  </div>
 
 <img src="img/vscode-ui.png" alt="blonder-screenshoot">
-
 
 ## Installation via VS Code 
 1. Open Extensions sidebar panel in VS Code. View → Extensions
